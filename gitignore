@@ -1,0 +1,31 @@
+# Dataset and generated data (too large for GitHub)
+InsectSound1000/
+LogMelSpectrograms/
+TFRecords/
+
+# Trained model checkpoint
+best_model.keras
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Kaggle credentials (never commit this!)
+kaggle.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
